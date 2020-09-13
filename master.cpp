@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<"file1(5)"<<endl;
+    cout<<"file1(15)"<<endl;
 }
 
